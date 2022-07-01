@@ -6,7 +6,7 @@ Prerequisite
 
 1. Install jdk 8 or any LTS version
 
-2. Download and extract Apache Jmeter 5.4.2 or any latest version
+2. Download and extract Apache Jmeter 5.4.3 or any latest version
 
 3. Configure JAVA_HOME and Jmeter Home
 
