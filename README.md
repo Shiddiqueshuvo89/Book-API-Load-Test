@@ -2,7 +2,7 @@
 
 Book API Load Test
 
-Prerequisite
+**Prerequisite**
 
 1. Install jdk 8 or any LTS version
 
@@ -10,7 +10,7 @@ Prerequisite
 
 3. Configure JAVA_HOME and Jmeter Home
 
-How to run this project
+**How to run this project**
 
 1. Clone the report
 
@@ -20,7 +20,7 @@ How to run this project
 
  jmeter -n -t BookAPI.jmx -l log.csv -e -o Reports
  
- Screenshots
+ **Screenshots**
  
  ![image](https://user-images.githubusercontent.com/45478777/176865285-e0b6688e-2525-4bcc-9285-cdecf275dd99.png)
 
